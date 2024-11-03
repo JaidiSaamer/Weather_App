@@ -33,8 +33,13 @@ A simple web application that fetches and displays weather data for selected cit
 - **index.html**: Main HTML file containing the structure and elements.
 - **script.js**: JavaScript file that handles API calls, data fetching, and DOM manipulation.
 
-## API Key
+## Setup
 
-The API key is embedded in the `script.js` file:
-```javascript
-const apiKey = 'YOUR_API_KEY_HERE';
+This project requires an API key from WeatherAPI.
+
+1. Obtain your API key from [WeatherAPI](https://www.weatherapi.com/).
+2. Replace `YOUR_API_KEY` in the code with your own key or set it in an environment variable as follows:
+
+   ```plaintext
+   API_KEY=your_actual_key_here
+
