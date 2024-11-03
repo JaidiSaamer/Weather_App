@@ -46,4 +46,4 @@ This project requires an API key from WeatherAPI.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/JaidiSaamer/Weather_App/blob/main/LICENSE) file for more details.
