@@ -1,4 +1,4 @@
-const apiKey = '57004fbd17b54ef3859132534243010';
+const apiKey = YOUR_API_KEY;
 const url = (city) => `https://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${city}&days=1&aqi=no`;
 
 const cities = ['Shanghai', 'Boston', 'Lucknow', 'Kolkata', 'Las Vegas', 'Sharjah'];
