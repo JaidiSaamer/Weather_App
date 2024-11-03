@@ -43,3 +43,7 @@ This project requires an API key from WeatherAPI.
    ```plaintext
    API_KEY=your_actual_key_here
 
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
